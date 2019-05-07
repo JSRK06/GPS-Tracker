@@ -30,7 +30,6 @@ float lat_away_present, long_away_present;
 
 /* Values Of Destination Position (Away Point) in Float Array Format - GPS Data Will Be Fed by Us In The Coding */
 
-
 float lat_away[] = {13.02713297753741, 13.027149726383, 13.02802844896464, 13.02790884259175};        //changed value lat
 float long_away[] = {80.25633983991604, 80.25548711610242, 80.25544412958953, 80.25635188432968};     //changed value lon
 
