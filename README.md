@@ -1,1 +1,1 @@
-# GPS-Tracker
+GPS Tracker is used to find the distance and direction to the destination point, it will give the exact distance to be covered and the direction to move towards the destination point. We can feed N-number of destination points using python code with the respective KML file. GPS Neo-M8N is having 3m accuracy level, LCD unit displays current Latitude & Longitude value, Destination Point Sequence Number(Counter Value), Distance to be covered (in metres) and Direction (NSWE) to move towards the destination point.
